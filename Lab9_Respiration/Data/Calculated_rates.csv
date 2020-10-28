@@ -1,0 +1,16 @@
+﻿Sample.ID,Sample.Type,Rate.O2.L.min,Temp.Treatment,Salinity.Treatment,Weight.g
+blank1,Blank,-6.28E-02,Cold,Low,
+blank2,Blank,-0.064125,Cold,Ambient,
+blank3,Blank,-6.00E-02,Hot,Low,
+blank4,Blank,-8.07E-02,Hot,Ambient,
+M01,Sample,-2.33E+00,Hot,Ambient,5.9
+M07,Sample,-6.64E+00,Hot,Low,32.8
+M08,Sample,-1.88E+00,Cold,Low,22.5
+M30,Sample,-1.34E+00,Cold,Low,7.9
+M31,Sample,-2.69E+00,Hot,Low,6.8
+M36,Sample,-7.83E-01,Cold,Low,5.1
+M37,Sample,-3.33E+00,Hot,Ambient,7
+M39,Sample,-1.43E+00,Cold,Ambient,5.1
+M44,Sample,-1.06E+01,Hot,Ambient,25.6
+M46,Sample,-1.38E+00,Cold,Ambient,6.3
+M49,Sample,-7.88E+00,Cold,Ambient,32.9

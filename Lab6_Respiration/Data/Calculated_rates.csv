@@ -1,0 +1,9 @@
+﻿Sample.ID,Sample.Type,Rate.O2.L.min,Treatment,Weight.g
+blank1,Blank,-2.35E-02,Cold,
+blank2,Blank,-0.11814,Hot,
+M1,Sample,-0.01665,Cold,7.2
+M7,Sample,-0.034081,Cold,5.5
+M9,Sample,-1.97249,Hot,6.9
+M11,Sample,-0.216928,Hot,6.6
+M20,Sample,-0.410669,Hot,8.7
+M23,Sample,-0.086307,Cold,7.6

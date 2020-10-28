@@ -1,0 +1,9 @@
+﻿Sample.ID,Sample.Type,Rate.O2.L.min,Treatment,Surface.Area.cm2
+blank1,Blank,1.20E-02,Cold,
+blank2,Blank,1.33E-02,Hot,
+A04,Sample,1.81E-01,Cold,7.2
+A19,Sample,1.58E-01,Cold,5.5
+A31,Sample,1.11E-01,Hot,6.9
+A39,Sample,2.11E-01,Cold,6.6
+A41,Sample,8.73E-02,Hot,8.7
+A45,Sample,9.93E-02,Hot,7.6
